@@ -1,2 +1,4 @@
 # created by virtualenv automatically
 stutern_env/
+__pycache__
+.pytest_cache
