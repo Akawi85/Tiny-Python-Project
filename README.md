@@ -8,3 +8,4 @@ This repository executes the instructions in the book "Tiny Python Projects" by 
 - [x] Chapter 4: Jump the Five; Working with dictionaries [link](https://github.com/Akawi85/Tiny-Python-Project/tree/main/04_jump_the_five)
 - [x] Chapter 5: Howler: Working with files and STDOUT [link](https://github.com/Akawi85/Tiny-Python-Project/tree/main/05_howler)
 - [x] Chapter 6: Words count: Reading files and STDIN, iterating lists, formatting strings [link](https://github.com/Akawi85/Tiny-Python-Project/tree/main/06_wc)
+- [x] Chapter 7: Gashlycrumb: Looking items up in a dictionary [link](https://github.com/Akawi85/Tiny-Python-Project/tree/main/07_gashlycrumb)
