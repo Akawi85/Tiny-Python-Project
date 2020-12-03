@@ -9,4 +9,4 @@ This repository executes the instructions in the book "Tiny Python Projects" by 
 - [x] Chapter 5: Howler: Working with files and STDOUT [link](https://github.com/Akawi85/Tiny-Python-Project/tree/main/05_howler)
 - [x] Chapter 6: Words count: Reading files and STDIN, iterating lists, formatting strings [link](https://github.com/Akawi85/Tiny-Python-Project/tree/main/06_wc)
 - [x] Chapter 7: Gashlycrumb: Looking items up in a dictionary [link](https://github.com/Akawi85/Tiny-Python-Project/tree/main/07_gashlycrumb)
-- [x] Chapter 8: Apples and Bananas: Find and replace [link]()
+- [x] Chapter 8: Apples and Bananas: Find and replace [link](https://github.com/Akawi85/Tiny-Python-Project/tree/main/08_apples_and_bananas)
