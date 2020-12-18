@@ -58,13 +58,9 @@ def main():
     args = get_args() # Call get_args () to get the arguments to the program
 
     """
-    if the user specifies the optional outfile argument,
-    use the open function to check if the string he passed to the option is a file,
-    if it is a file, open it and make the file a writeable text file,
-    if it isn't a file, the open function makes a new file with the string as its name and also make it a writeable text file.
-    Else, if the user doesn't specify the optional outfile argument, return a standard output.
+    if the outfile argument is called
+    open the argument's string it was called with as a writeable text file
     Assign if clauses to the out_fh variable
-
     write the contents of the required args.text argument in upper case to out_fh
     close the file handle
     """
